@@ -1,0 +1,2 @@
+# Ruru
+Pembuat Harta karun
